@@ -20,7 +20,7 @@
 
 独立系统一键安装脚本:（10086换成您自已帐号的授权uid号）
 ```
-yum -y install wget && cd /tmp && wget http://github.itzmx.com/1265578519/cdnbest/main/install/im.sh -O im.sh && sh im.sh 4.7.25 && ./cdnbest-master/shell/install.sh 10086 /vhs2
+yum -y install wget && cd /tmp && wget http://github.com/1265578519/cdnbest/main/install/im.sh -O im.sh && sh im.sh 4.7.25 && ./cdnbest-master/shell/install.sh 10086 /vhs2
 ```
 
 
@@ -51,7 +51,7 @@ yum -y install wget && cd /tmp && wget http://github.itzmx.com/1265578519/cdnbes
 
 独立系统一键升级脚本:
 ```
-cd /tmp && wget http://github.itzmx.com/1265578519/cdnbest/main/install/im.sh -O im.sh && sh im.sh 4.7.25 && ./cdnbest-master/shell/update.sh /vhs2
+cd /tmp && wget http://github.com/1265578519/cdnbest/main/install/im.sh -O im.sh && sh im.sh 4.7.25 && ./cdnbest-master/shell/update.sh /vhs2
 ```
 
 
